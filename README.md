@@ -1,6 +1,6 @@
 # Face Detection
 
-An opencv haascascade usage for face detection.
+An opencv haarcascade usage for face detection.
 
 ## Installation
 
