@@ -7,7 +7,7 @@ An opencv haascascade usage for face detection.
 Use the command in the terminal
 
 ```
- git clone
+ git clone https://github.com/Khushiyant/Face-Detection.git
 ```
 
 ## Usage
